@@ -1,0 +1,20 @@
+[
+    {
+        "_id": "62a9e6de55ff14cd5d8aaa4c",
+        "image": "https://i.ibb.co/qnpRvMT/cv-one.png",
+        "name": "cv-one",
+        "category": "free"
+    },
+    {
+        "_id": "62a9e6de6b2af37878ffcafc",
+        "image": "https://i.ibb.co/5Y2rkf5/cv-two.png",
+        "name": "cv-two",
+        "category": "free"
+    },
+    {
+        "_id": "62a9e6de410766c583ab6a92",
+        "image1": "https://i.ibb.co/28rR0fj/cv-three.png",
+        "name": "cv-three",
+        "category": "paid"
+    }
+]
